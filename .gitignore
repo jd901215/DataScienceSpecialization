@@ -11,3 +11,7 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+# Specific files
+Exploratory\ Data\ Analysis/Course\ Project\ 1/household_power_consumption.txt
+R\ programming\ /Week\ 1\ Programming\ assignment/specdata/*.csv
